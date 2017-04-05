@@ -14,5 +14,6 @@ public class App extends Application {
     public void onCreate() {
         super.onCreate();
         FreelineCore.init(this);
+        System.out.println("www");
     }
 }
