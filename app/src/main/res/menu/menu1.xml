@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Linearlayoutmanager" android:id="@+id/menu1"></item>
+    <item android:title="gridlayoutmanager" android:id="@+id/menu2"></item>
+    <item android:title="staggergridlayoutmanager" android:id="@+id/menu3"></item>
+    <item android:title="addone" android:id="@+id/menu4"></item>
+    <item android:title="removeone" android:id="@+id/menu5"></item>
+</menu>
